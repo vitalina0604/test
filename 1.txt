@@ -1,9 +1,5 @@
 hello 
 first  commit
-
-1234566788
-five5
-new line for gui
 five5five5five5five5five5
 gitgritjhroaji
 erg
